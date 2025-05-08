@@ -64,6 +64,8 @@ Follow the notebook instructions to:
 	•	Store in Pinecone
 	•	Query and generate LLM responses
 
+📌 This project was developed as part of coursework for the Generative AI Lab (94-844) at Carnegie Mellon University. All code, experiments, and analysis are my own, based on provided assignments and publicly available tools.
+
 📈 Sample Use Cases
 	•	Internal company document Q&A
 	•	Policy retrieval for HR/legal teams
